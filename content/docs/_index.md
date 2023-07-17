@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: White Paper
+linktitle: Introduction
+summary: Timeline
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: White Paper
+title: Timeline
 date: '2023-07-14T00:00:00Z'
 type: book # Do not modify.
 ---
