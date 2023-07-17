@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Chapter 3
-summary: Full Proposal
+summary: Before the Beamtime
 weight: 3
 icon: book
 icon_pack: fas
