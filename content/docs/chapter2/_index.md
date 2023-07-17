@@ -1,16 +1,18 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
-icon: book-reader
+linktitle: Chapter 1
+summary: Full Proposal
+weight: 2
+icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 2
-date: '2018-09-09T00:00:00Z'
+title: Full Proposal
+date: '2023-07-14T00:00:00Z'
 type: book # Do not modify.
 ---
+
+
 
 ## Flexibility
 
