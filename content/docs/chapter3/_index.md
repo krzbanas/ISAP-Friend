@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 3
+linktitle: Before the Beamtime
 summary: Before the Beamtime
 weight: 3
 icon: book
