@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 4
+linktitle: In Melbourne
 summary: In Melbourne
 weight: 4
 icon: book
