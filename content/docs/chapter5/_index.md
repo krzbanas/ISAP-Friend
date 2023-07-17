@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 5
+linktitle: Back in Singapore
 summary: Back in Singapore
 weight: 5
 icon: book
