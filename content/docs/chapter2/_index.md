@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
+linktitle: Chapter 2
 summary: Full Proposal
 weight: 2
 icon: book
