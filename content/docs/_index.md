@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter4
-summary: In Melbourne
-weight: 4
+linktitle: Chapter5
+summary: Back in Singapore
+weight: 5
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: In Melbourne
+title: Back in Singapore
 date: '2023-07-14T00:00:00Z'
 type: book # Do not modify.
 ---
