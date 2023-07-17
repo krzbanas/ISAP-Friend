@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
+linktitle: White Paper
 summary: White Paper
 weight: 1
 icon: book
