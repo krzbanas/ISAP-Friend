@@ -1,20 +1,20 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter5
-summary: Back in Singapore
-weight: 5
+linktitle: Chapter 1
+summary: White Paper
+weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Back in Singapore
+title: White Paper
 date: '2023-07-14T00:00:00Z'
 type: book # Do not modify.
 ---
 
-
-
 ## Flexibility
+
+Document everything!
 
 This feature can be used for publishing content such as:
 
