@@ -27,6 +27,7 @@ cta_note:
 Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 This portal is an informal guide for the Participants of ISAP providing some hints and tips how to sail through the project from White Paper to After Experiment Survey.
+
 Disclaimer: I am not taking any profits for the recommendation of certain services (like Myki Card or Skybus). If any provided information is incorrect please let me know via contact tab. 
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
