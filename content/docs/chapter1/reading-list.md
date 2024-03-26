@@ -11,6 +11,7 @@ A recommended reading list for the course.
 
 ## White Paper Checklist
 
+Testing the changes
 
 ## Videos
 
